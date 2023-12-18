@@ -21,3 +21,8 @@ function calculateGrade() {
     }
 
 }
+
+const testMarks = 75
+console.log(calculateGrade(testMarks));
+
+// console.log(calculateGrade());
